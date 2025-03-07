@@ -1,1 +1,2 @@
 This is file happy.txt
+Modified by B folder.
