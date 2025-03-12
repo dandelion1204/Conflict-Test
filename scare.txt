@@ -1,1 +1,2 @@
 This is file scare.txt
+Modify by B folder
